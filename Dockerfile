@@ -1,4 +1,4 @@
-FROM node
+FROM node:apline
 
 RUN npm install -g tnnl
 
