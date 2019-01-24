@@ -1,4 +1,4 @@
-FROM node:apline
+FROM node:alpine
 
 RUN npm install -g tnnl
 
